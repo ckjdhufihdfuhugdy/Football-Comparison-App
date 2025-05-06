@@ -29,8 +29,8 @@ scatter_axes_by_role = {
     "GK": ("Save%","PSxG+/-")
 }
 position_feature_map = {
-    "FW": ['Gls','Ast','xG','xAG','KP','SCA90','GCA90','Sh/90','SoT/90','Succ','Touches','xA'],
-    "MF": ['Ast','xAG','xA','KP','SCA90','GCA90','PrgP','PrgC','PrgR','Carries','Touches','1/3','PPA','TotDist','TB','Sw'],
+    "FW": ['Gls','Ast','Succ','PrgR'],
+    "MF": ['Ast','PrgP','PrgC','PrgR','Carries','1/3','PPA','TB','Sw'],
     "DF": ['Tkl','Tkl+Int','Blocks','Clr','Err','Int','Touches','PrgP','PrgC','Carries'],
     "GK": ['GA90','PSxG+/-','Cmp%_stats_keeper_adv','AvgDist']
 }
